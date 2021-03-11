@@ -8,10 +8,11 @@ SOLUÇÃO:
 		Data: Definição e Implementação do acesso ao Banco de Dados e persistência dos dados
 		Domain: Definição e Implementação das Entidades do Negócio
 		CrossCutting: Configurações gerais relacionadas a Injeção de Dependência e Mapeamento
-	O Que você pode fazer na API?
+	O Que a API fornece?
 		Inserir cursos e Pesquisar
 		Increver-se em Cursos
 		Pesquisar Estasticas do cursos (Estatiscas sao atualizadas caso X minutos ja tenha passado da ultima atualização)
+		Agendamento para realizar Inscrições em lote lida a partir de um arquivo a cada X hrs e envio de email para o estudane confirmando inscrição (Esta funcionalidade ainda não esta funcionando corretamente)
 
 TESTE
 

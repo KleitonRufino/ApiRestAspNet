@@ -1,4 +1,7 @@
+https://ibb.co/khVSNSh
+
 SOLUÇÃO: 
+
 	Desenvolvido em 5 Camadas:
 		Application: Definição e Implementação da Api 
 		Service: Definição e Implementação das Regras de Negócio
@@ -11,6 +14,7 @@ SOLUÇÃO:
 		Pesquisar Estasticas do cursos (Estatiscas sao atualizadas caso X minutos ja tenha passado da ultima atualização)
 
 TESTE
+
 	Desenvolvido 4 Camadas par testes unitários utilizando XUnit e Moq:
 		Application.Test: Definição e Implementação dos testes relacionado a api
 		Service.Test: Definição e Implementação dos testes relacionado as regras de negócio
@@ -18,6 +22,7 @@ TESTE
 		Integration.Test: Definição e Implementação dos testes relacionado a integração do sistema como um todo
 
 FERRAMENTAS:
+
 	AspNetCore, EntityFramework, MySql, AutoMapper
 
 MELHORIAS:

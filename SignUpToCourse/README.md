@@ -26,6 +26,7 @@ FERRAMENTAS:
 	AspNetCore, EntityFramework, MySql, AutoMapper
 
 MELHORIAS:
+
 	Regras de Negócio mais elaboradas
 	Mais propriedades para as Entidades de Dominio
 	Consultas mais personalizadas

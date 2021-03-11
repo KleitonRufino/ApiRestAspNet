@@ -1,4 +1,4 @@
-https://i.ibb.co/FBkDRDB/arq.png
+![alt text](https://i.ibb.co/FBkDRDB/arq.png)
 
 SOLUÇÃO: 
 
